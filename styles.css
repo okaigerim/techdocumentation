@@ -83,6 +83,7 @@ code {
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
+  color: #333;
 }
 
 @media only screen and (max-width: 815px) {
@@ -126,4 +127,3 @@ code {
     min-width: 233px;
   }
 }
-
